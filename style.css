@@ -1,0 +1,150 @@
+.kare{
+    width: 800px;
+    height:800px;
+    background-color: #D462FF;
+    border: 5px solid rgb(101, 91, 91);   
+    
+}
+
+.container{
+    width: 500px;
+    height: 500px;
+    background-color: bisque;
+    border: 1px solid white;
+    border-radius: 50%;
+    border-color: rgb(43, 15, 70); 
+    position:absolute;
+    left: 150px;   
+    top: 150px;
+}
+
+.box1{
+    width: 108px;
+    height: 108px;
+    background-color: dimgray;
+    border-radius: 50%;
+    position:absolute;
+    top: 60px;
+    left: 100px;     
+}
+
+.box2{
+    width: 101px;
+    height: 90px;
+    background-color: bisque;
+    border-radius: 50%;
+    position:absolute;
+    top: 75px;
+    left: 102px;
+}
+
+.box3{
+    width: 108px;
+    height: 108px;
+    background-color: dimgray;
+    border-radius: 50%;
+    position:absolute;
+    top: 60px;
+    left: 300px;    
+}
+
+.box4{
+    width: 101px;
+    height: 90px;
+    background-color: bisque;
+    border-radius: 50%;
+    position:absolute;
+    top: 75px;
+    left: 303px;
+}
+
+.box5{
+    width: 20px;
+    height: 20px;
+    background-color: dimgrey;
+    border-radius: 50%;
+    position:absolute;
+    top: 115px;
+    left: 100px;     
+}
+
+.box6{
+    width: 20px;
+    height: 20px;
+    background-color:  dimgrey;
+    border-radius: 50%;
+    position:absolute;
+    top: 115px;
+    left: 302px;
+}
+
+ .üçgen{
+    border-left: 70px solid transparent;
+    border-right:70px solid transparent;
+    border-bottom: 150px solid  dimgrey;
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    top: 180px;
+    left: 180px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px; 
+ }
+
+ .ağızyukarı{
+    width: 180px;
+    height: 30px;
+    background-color: bisque;
+    position: absolute;
+    top: 365px;
+    left: 162px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+ }
+
+ .ağızaşağı{
+    width: 175px;
+    height: 30px;
+    background-color: dimgrey;
+    position: absolute;
+    top: 380px;
+    left: 165px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+ }
+
+  .papyonkare{
+    width: 160px;
+    height: 50px;
+    background-color:#D462FF;
+    border :5px solid red;
+    position: absolute;
+    bottom: -60px;
+    left: 165px;
+
+  }
+
+  .papyonsol {
+    width: 0;
+    height: 0;
+    border-top: 25px solid transparent;
+    border-right: 80px solid red;
+    border-bottom: 25px solid transparent;
+    position: absolute;
+    bottom: -55px;
+    left: 170px;
+  }
+
+  .papyonsağ {
+    width: 0;
+    height: 0;
+    border-top: 25px solid transparent;
+    border-left: 80px solid red;
+    border-bottom: 25px solid transparent;
+    position: absolute;
+    bottom: -55px;
+    left: 250px;
+  }
+  
+ 
+
